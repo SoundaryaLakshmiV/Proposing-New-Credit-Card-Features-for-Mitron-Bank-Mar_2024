@@ -8,3 +8,5 @@ Peter Pandey is a data analyst at AtliQ Data Services and was asked by his manag
 The successful acquisition of this project depends on Peter's ability to provide actionable, data-driven recommendations and impress Mr. Bashnir Rover & his team. Peter requested support from his manager Tony Sharma, and he provided him with some ideas to generate insights based on the data provided.
 
 The task is to imagine ourselves as Peter Pandey and complete the analysis and provide recommendations for new line of credit cards.
+
+linkedin post: https://shorturl.at/doE03
